@@ -1,0 +1,8 @@
+# Stock Watcher Requirements
+# Note: tkinter is included with Python on Windows by default
+
+# No additional packages required - uses only Python standard library:
+# - tkinter (GUI)
+# - urllib (HTTP requests)
+# - json (data parsing)
+# - threading (background tasks)
