@@ -53,7 +53,7 @@ The framework achieves **99.26% binary classification accuracy** and **83.06% fi
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/yolo-transformer-dr.git
+git clone https://github.com/fongrong/yolo-transformer-dr.git
 cd yolo-transformer-dr
 
 # Create virtual environment
